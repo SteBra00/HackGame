@@ -3,8 +3,7 @@
 ## Elenco di cose da fare
 
 ### Front-end
-- [x] Creare una finestra base
-- [ ] Creare pagina web
+- [ ] <a hreaf="#">Creare pagina web</a>
 - [ ] Creare schermata iniziale
 - [ ] Creare interfaccia creazione avatar
 - [ ] Creare interfaccia creazione pagina web
@@ -36,3 +35,8 @@
 
 - Qt_Matetial
 `python3 -m pip install qt_matetial`
+
+
+## Specifiche di progettazione
+### Info Pagina Web
+ciao mondo
