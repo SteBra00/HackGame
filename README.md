@@ -1,7 +1,6 @@
 # HackGame
 
 ## Elenco di cose da fare
-
 ### Front-end
 - [ ] [Creare sito web](#info-sito-web)
 - [ ] [Creare schermata iniziale](#info-schermata-iniziale)
@@ -20,6 +19,8 @@
 - [ ] Creare template per pagine web
 - [ ] Creare rete virtuale
 
+---
+
 ## Informazioni
 ### Linguaggi
 - Python3 (Back-end, Front-end)
@@ -37,7 +38,7 @@
 - Qt_Matetial
 `python3 -m pip install qt_matetial`
 
-
+---
 ## Specifiche di progettazione
 ### Info Sito Web
 #### Descrizione
@@ -60,6 +61,7 @@ Per qualsiasi comunicazione, l'email sarà una remota possibilità: le email non
 - [ ] [Crea avatar](#info-interfaccia-creazione-avatar)
 - [ ] [Crea pagina web](#info-interfaccia-creazione-pagina-web)
 
+---
 ### Info Schermata Iniziale
 #### Descrizione
 Semplice schermata per l'inizializzazione del gioco;
@@ -69,6 +71,7 @@ Il SignUp (registrazione nuovo utente) sarà possibile SOLO attraverso l'interfa
 - [ ] SignUp (Apri pagina web)
 - [ ] SignIn
 
+---
 ### Info Interfaccia Creazione Avatar
 #### Descrizione
 L'avatar è l'immagine profilo di ogni utente, quindi un maggiorn numero di elementi fornirà una personalizzazione più completa.
@@ -85,6 +88,7 @@ L'avatar è l'immagine profilo di ogni utente, quindi un maggiorn numero di elem
 - [ ] Scegli accessori schiena
 - [ ] Salva Immagine
 
+---
 ### Info interfaccia Creazione Pagina Web
 #### Descrizione
 La pagina web è il sito ufficiale appartenete all'utente in fase di gioco, se esso decide utilizzare uno dei suoi dispositivi digitali per fornire (simulazione) un servizio web.
@@ -98,6 +102,7 @@ La pagina web è il sito ufficiale appartenete all'utente in fase di gioco, se e
 - [ ] Scegli colore di sfondo
 - [ ] Salva template
 
+---
 ### Info Interfaccia ***Shell***
 #### Descrizione
 L'interfaccia ***shell*** è la schemata principale del gioco, qui è possibile fare la maggiorparte delle operazioni del gioco, es. attacchi, attivazione/modifica/disattivazione servizi forniti agli utenti virtuali (simulazione), implementazioni malware/firewall/protocolli di criptazione o difesa, ...;
@@ -109,6 +114,7 @@ L'interfaccia ***shell*** è la schemata principale del gioco, qui è possibile 
 - [ ] Visualizza cronologia comandi eseguiti
 - [ ] Visualizza comandi salvati
 
+---
 ### Info Interfaccia ***Room***
 #### Descrizione
 Interfaccia dove sono posizionati i dispositivi digitali dell'utente.
@@ -118,6 +124,7 @@ Interfaccia dove sono posizionati i dispositivi digitali dell'utente.
 - [ ] Modifica le caratteristiche hardware dei dispositivi
 - [ ] Visualizza caratteristiche del dispositivo (durata, potenza, consumi, ...)
 
+---
 ### Info Interfaccia ***Web***
 #### Descrizione
 Permette di interagire con gli altri utenti e con i lori servizi (simulazione).
@@ -131,6 +138,7 @@ Permette di interagire con gli altri utenti e con i lori servizi (simulazione).
 - [ ] Visualizza richieste pubbliche di soccordo (sia attaccanti che difensori)
 - [ ] Visualizza sedi pubbliche di azziende o gruppi (quest'ultimi solo se aperti)
 
+---
 ### Info Interfaccia ***Group***
 #### Descrizione
 Area di interazione con il proprio gruppo di appartenenza; un gruppo è come un clan o una gilda, con cui è possibile collaborare e/o interagire con i vari membri.
@@ -145,6 +153,7 @@ Area di interazione con il proprio gruppo di appartenenza; un gruppo è come un 
 - [ ] Richiedi supporto d'attacco
 - [ ] Richiedi supporto di difesa
 
+---
 ### Info Interfaccia ***Option***
 #### Descrizione
 Gestione primaria del gioco, es. tema, SignOut, ...
