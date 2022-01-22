@@ -13,11 +13,11 @@
 - [ ] [Creare interfaccia ***Option***](#info-interfaccia-option)
 
 ### Back-end
-- [ ] Aquisto serve fisico
-- [ ] Creare server
-- [ ] Creare database
-- [ ] Creare template per pagine web
-- [ ] Creare rete virtuale
+- [ ] [Aquisto serve fisico](#server-finisco)
+- [ ] [Creare server](#software-server)
+- [ ] [Creare database](#database)
+- [ ] [Creare template per pagine web](#template-pagine-web)
+- [ ] [Creare rete virtuale](#rete-virtuale)
 
 ---
 
@@ -164,3 +164,33 @@ Gestione primaria del gioco, es. tema, SignOut, ...
 - [ ] Cancella cronologia web
 - [ ] Cancella cronologia comandi
 - [ ] SignOut
+
+
+
+
+## Back-end
+### Server Fisico
+Raspabarry o Computer?
+
+### Software Server
+Il server è l'intermediario tra ***utenti***, ***database*** e ***rete virtuale***;
+Ogni operazione con il server deve essere verificata da una sessione: solo a seguito del signin è possibile eseguire interazioni con il server;
+L'unico comando possibile da eseguire da chiunque è il comando "CHECK";
+
+#### Comandi Server
+- GET
+- SET
+- SIGNIN
+- SIGNUP
+- SIGNOUT
+- ME
+- CHECK
+
+### Database
+Ancora da definire
+
+### Template Pagine Web
+I template vengono utilizzati dagli utenti che simulano un servizio web.
+
+### Rete Virtuale
+Una rete simulata di interazionetra gli utenti: un modo digitale simulato.
