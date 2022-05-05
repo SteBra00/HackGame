@@ -1,6 +1,17 @@
 https://lucid.app/lucidchart/382267b8-8daa-4c03-a961-b4efdbebcfb8/edit?beaconFlowId=8E9092CD0C1EA4E6&invitationId=inv_20131d7b-e133-4528-989c-b8784a3bdb31&page=0_0#
 
+https://grafana.com/
+
+https://shields.io/
+
+https://www.pandasecurity.com/en/mediacenter/security/14-types-of-hackers-to-watch-out-for/
+
+
 HackerGame
+
+
+#capo del team: CTO
+
  
 descrizione:
 - moneta: bitcoin (bc)
@@ -124,11 +135,11 @@ Comandi:
 
 # SIGNIN #
 - Accedi ad un utente già registrato
-- Method: SIGNIN username password
+- Method: SIGNIN {username || email} password
 - Note: il metodo restituisce il tocken per la connessione, da utilizzare per i metodi GET e SET
 - Note: il metodo restituisce l'ip di gioco
 
-# SIGNOUT #
+# LOGOUT #
 - Effettua la rimozione del tocken per la connesione ed effettua la disconnessione del socket as server
 - Method: LOGOUT
 
