@@ -1,6 +1,0 @@
-[2022-01-20 13:05:06] DEBUG Starting new HTTPS connection (1): api.coindesk.com:443
-[2022-01-20 13:05:06] DEBUG https://api.coindesk.com:443 "GET /v1/bpi/currentprice.json HTTP/1.1" 200 679
-[2022-01-20 13:05:06] DEBUG Starting new HTTPS connection (1): api.coindesk.com:443
-[2022-01-20 13:05:06] DEBUG https://api.coindesk.com:443 "GET /v1/bpi/currentprice.json HTTP/1.1" 200 679
-[2022-01-20 13:05:51] INFO add_bitcoins 0.0000000066 -> 0.0000000066
-[2022-01-20 13:05:51] INFO add_bitcoins 0.0000000284 -> 0.0000000350
