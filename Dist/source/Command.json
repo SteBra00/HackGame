@@ -1,0 +1,33 @@
+{
+    "title": "",
+    "description": "",
+    "sub-element": [
+        {
+            "title": "code",
+            "description": "Comando per scrivere codice",
+            "sub-element": [
+                {
+                    "title": "--script",
+                    "description": "Creazione di script",
+                    "sub-element": [
+                        {
+                            "title": "python",
+                            "description": "Crea script Python",
+                            "sub-element": []
+                        },
+                        {
+                            "title": "javascript",
+                            "description": "Crea script Javascript",
+                            "sub-element": []
+                        },
+                        {
+                            "title": "cpp",
+                            "description": "Crea script C/C++",
+                            "sub-element": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
