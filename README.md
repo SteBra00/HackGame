@@ -183,7 +183,6 @@ L'unico comando possibile da eseguire da chiunque è il comando "CHECK";
 - SIGNIN
 - SIGNUP
 - SIGNOUT
-- ME
 - CHECK
 
 ### Database
